@@ -7,3 +7,7 @@
 - ⚡ Fun fact: I always want to test new things!
 
 [email]: mailto:pigges@tutanota.com
+
+
+### Now Playing On Spotify 🎧
+![Spotify](https://spotify-now-playing-pigges.vercel.app/api/spotify)

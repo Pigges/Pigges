@@ -6,7 +6,7 @@
 - 📫 How to reach me: [Mail me][email]
 - ⚡ Fun fact: I always want to test new things!
 
-[email]: mailto:contact@pigges.xyz
+[email]: mailto:contact@pigg.es
 
 
 ### Now Playing On Spotify 🎧

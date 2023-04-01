@@ -7,7 +7,3 @@
 - ⚡ Fun fact: I always want to test new things!
 
 [email]: mailto:contact@pigg.es
-
-
-### Now Playing On Spotify 🎧
-![Spotify](https://spotify-now-playing-pigges.vercel.app/api/spotify)
